@@ -45,21 +45,20 @@ cloudops_task_orchestrator
 └── 📄 **tasks.json**       → Stores tasks persistently  
 
 ▶ How to Run
+Clone the repository:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cloudops-task-orchestrator.git
+bash
+git clone https://github.com/kalash-borkar/Cloudops_task_orchestrator.git
 
+Navigate into the folder:
 
-
-2. Go into the folder:
-
-cd cloudops-task-orchestrator
-
+bash
+cd Cloudops_task_orchestrator
 
 
-3. Run the program:
+Run the program:
 
+bash
 python main.py
 
 
