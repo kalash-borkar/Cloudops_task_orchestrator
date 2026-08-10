@@ -7,18 +7,22 @@ Built modularly so it can later extend into DevOps workflows (Docker, CI/CD, Clo
 
 
 ❓ Problem Statement
-Managing tasks manually is inefficient:
-Commands and priorities are often forgotten
-No central storage for tasks
-Running commands one by one wastes time
-Automation is hard without structure
+
+	Managing tasks manually is inefficient:
+	Commands and priorities are often forgotten
+	No central storage for tasks
+	Running commands one by one wastes time
+	Automation is hard without structure
+
 
 ✅ Solution
-CloudOps Task Orchestrator solves these issues by:
-Storing tasks in a JSON file for persistence
-Adding metadata (category, priority) for organization
-Running system commands directly via Python subprocess
-Searching tasks quickly by keyword
+
+	CloudOps Task Orchestrator solves these issues by:
+	Storing tasks in a JSON file for persistence
+	Adding metadata (category, priority) for organization
+	Running system commands directly via Python subprocess
+	Searching tasks quickly by keyword
+
 
 🚀 Features
 ➕ Add new tasks with category & priority
